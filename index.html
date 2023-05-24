@@ -8,27 +8,12 @@
 
     <link
       rel="stylesheet"
-      media="print"
-      onload="this.onload=null;this.removeAttribute('media');"
       href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap"
     />
     <link
       rel="stylesheet"
-      media="print"
-      onload="this.onload=null;this.removeAttribute('media');"
       href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&display=swap"
     />
-
-    <noscript>
-      <link
-        rel="stylesheet"
-        href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap"
-      />
-      <link
-        rel="stylesheet"
-        href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&display=swap"
-      />
-    </noscript>
 
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <link rel="stylesheet" type="text/css" href="index.css" />
@@ -45,8 +30,8 @@
       class="max-w-3xl w-full fixed bg-white/50 backdrop-blur-lg"
     >
       <div class="px-4 xs:h-14 xs:flex justify-between items-center">
-        <a href="#" class="flex flex-col">
-          <span class="px-1 basis-0 block text-2xl font-orbitron font-bold">
+        <a href="#" class="block">
+          <span class="px-1 block text-2xl font-orbitron font-bold">
             Radiak
           </span>
           <div
@@ -170,48 +155,38 @@
         Kaipaatko lisää?
       </span>
       <p class="mb-8 text-center font-normal text-secondary-800">
-        Tarjoamme tarvittaessa lisää palveluita. Hinnat vaihtelevat arvioidun
-        työmäärän mukaan.
+        Tarjoamme tarvittaessa lisää palveluita. Hinnat vaihtelevat arvioidun työmäärän mukaan.
       </p>
     </section>
 
     <section id="ota-yhteytta" class="py-8 w-full text-white bg-primary-500">
-      <div class="mx-auto max-w-2xl flex flex-col">
+      <div class="mx-auto max-w-2xl flex flex-col items-center">
         <span class="mb-4 text-2xl font-bold text-center">
           Ota rohkeasti yhteyttä
         </span>
-        <div class="flex justify-center">
-          <div
-            class="pr-4 w-1/3 flex flex-col justify-center items-end border-r"
-          >
-            <div class="flex">
-              <div class="mr-1 flex flex-col">
-                <svg class="mr-1 h-6" viewBox="0 0 24 24">
-                  <path
-                    fill="currentColor"
-                    d="M20,8L12,13L4,8V6L12,11L20,6M20,4H4C2.89,4 2,4.89 2,6V18A2,2 0 0,0 4,20H20A2,2 0 0,0 22,18V6C22,4.89 21.1,4 20,4Z"
-                  />
-                </svg>
-                <svg class="mr-1 h-6" viewBox="0 0 24 24">
-                  <path
-                    fill="currentColor"
-                    d="M6.62,10.79C8.06,13.62 10.38,15.94 13.21,17.38L15.41,15.18C15.69,14.9 16.08,14.82 16.43,14.93C17.55,15.3 18.75,15.5 20,15.5A1,1 0 0,1 21,16.5V20A1,1 0 0,1 20,21A17,17 0 0,1 3,4A1,1 0 0,1 4,3H7.5A1,1 0 0,1 8.5,4C8.5,5.25 8.7,6.45 9.07,7.57C9.18,7.92 9.1,8.31 8.82,8.59L6.62,10.79Z"
-                  />
-                </svg>
-              </div>
-              <div class="flex flex-col items-center">
-                <a
-                  href="mailto:%69%6e%66%6f%40%72%61%64%69%61%6b%2e%66%69"
-                  class="hover:text-secondary-200"
-                >
-                  info@radiak<b class="hidden">bot_deterrent</b>.fi
-                </a>
-                <a href="">044 0101010</a>
-              </div>
-            </div>
+        <div class="flex">
+          <div class="mr-1 flex flex-col">
+            <svg class="mr-1 h-6" viewBox="0 0 24 24">
+              <path
+                fill="currentColor"
+                d="M20,8L12,13L4,8V6L12,11L20,6M20,4H4C2.89,4 2,4.89 2,6V18A2,2 0 0,0 4,20H20A2,2 0 0,0 22,18V6C22,4.89 21.1,4 20,4Z"
+              />
+            </svg>
+            <svg class="mr-1 h-6" viewBox="0 0 24 24">
+              <path
+                fill="currentColor"
+                d="M6.62,10.79C8.06,13.62 10.38,15.94 13.21,17.38L15.41,15.18C15.69,14.9 16.08,14.82 16.43,14.93C17.55,15.3 18.75,15.5 20,15.5A1,1 0 0,1 21,16.5V20A1,1 0 0,1 20,21A17,17 0 0,1 3,4A1,1 0 0,1 4,3H7.5A1,1 0 0,1 8.5,4C8.5,5.25 8.7,6.45 9.07,7.57C9.18,7.92 9.1,8.31 8.82,8.59L6.62,10.79Z"
+              />
+            </svg>
           </div>
-          <div class="pl-4 w-1/3 flex items-center border-l">
-            Muista pitää yhteydenoton kynnys matalana.
+          <div class="flex flex-col items-center">
+            <a
+              href="mailto:%69%6e%66%6f%40%72%61%64%69%61%6b%2e%66%69"
+              class="hover:text-secondary-200"
+            >
+              info@radiak<b class="hidden">bot_deterrent</b>.fi
+            </a>
+            <a href="tel:0408178989">040 8178989</a>
           </div>
         </div>
       </div>
