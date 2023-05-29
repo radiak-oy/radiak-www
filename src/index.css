@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  font-family: "Noto Sans", system-ui, sans-serif;
+  font-size: large;
+  scroll-behavior: smooth !important;
+  scroll-padding-top: 4rem;
+}
+
+input {
+  @apply px-2 py-1 rounded border border-secondary-300 text-secondary-900
+}
+
+.shine {
+  background-image: linear-gradient(
+    -60deg,
+    transparent 0,
+    transparent 5%,
+    rgba(255,255,255,0.25) 5%,
+    rgba(255,255,255,0.6) 7%,
+    rgba(255,255,255,0.6) 8%,
+    rgba(255,255,255,0.25) 10%,
+    transparent 10%,
+    transparent 100%
+  );
+  background-size: 200% 100%;
+  animation: shine 1.0s ease forwards;
+  animation-play-state: paused;
+}
+
+@keyframes shine {
+  0% {
+    background-position: 0% 0%;
+  }
+  100% {
+    background-position: -120% 0;
+  }
+}

@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex,nofollow" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&display=swap"
+    />
+
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+
+    <title>Radiak &ndash; Rekisteri- ja tietosuojaseloste</title>
+
+    <style>
+      html,
+      body {
+        padding: 1rem;
+        font-family: "Noto Sans", system-ui, sans-serif;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <a href="/">Takaisin kotisivulle</a>
+      <h1>Rekisteri- ja tietosuojaseloste</h1>
+
+      <strong>
+        TÄMÄ ASIAKIRJA ON VAIN MALLI EIKÄ OLE VOIMASSA. RADIAK OY:TÄ EI OLE
+        VIELÄ PERUSTETTU EIKÄ SE TOIMI REKISTERINPITÄJÄNÄ.
+      </strong>
+
+      <p>
+        Tämä on Radiak Oy:n EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen
+        rekisteri- ja tietosuojaseloste. Laadittu 10.06.2023. Viimeisin muutos
+        10.06.2023.
+      </p>
+
+      <h3>1. Rekisterinpitäjä</h3>
+
+      <p>Radiak Oy</p>
+
+      <p>www.radiak.fi</p>
+
+      <h3>2. Rekisteristä vastaava yhteyshenkilö</h3>
+
+      <p>Aaro Karell, info@radiak.fi, 0408178989</p>
+
+      <h3>3. Rekisterin nimi</h3>
+
+      <p>Radiak Oy:n asiakasrekisteri</p>
+
+      <h3>4. Oikeusperuste ja henkilötietojen käsittelyn tarkoitus</h3>
+
+      <p>
+        EU:n yleisen tietosuoja-asetuksen mukainen oikeusperuste henkilötietojen
+        käsittelylle on henkilön suostumus (dokumentoitu, vapaaehtoinen,
+        yksilöity, tietoinen ja yksiselitteinen)
+      </p>
+
+      <p>
+        Henkilötietojen käsittelyn tarkoitus on yhteydenpito asiakkaisiin ja
+        asiakassuhteen ylläpito.
+      </p>
+
+      <p>
+        Tietoja ei käytetä automatisoituun päätöksentekoon tai profilointiin.
+      </p>
+
+      <h3>5. Rekisterin tietosisältö</h3>
+
+      <p>
+        Rekisteriin tallennettavia tietoja ovat: henkilön nimi, asema,
+        yritys/organisaatio, yhteystiedot (puhelinnumero, sähköpostiosoite,
+        osoite), www-sivustojen osoitteet, verkkoyhteyden IP-osoite, tiedot
+        tilatuista palveluista ja niiden muutoksista, laskutustiedot, muut
+        asiakassuhteeseen ja tilattuihin palveluihin liittyvät tiedot.
+      </p>
+
+      <p>Tiedot säilytetään pääsääntöisesti asiakassuhteen keston ajan.</p>
+
+      <p>
+        Verkkosivuston vierailijoiden IP-osoitteita ja palvelun toiminnoille
+        välttämättömiä evästeitä käsitellään oikeutetun edun perusteella mm.
+        tietoturvasta huolehtimiseksi ja sivuston vierailijoiden tilastotietojen
+        keruuta varten niissä tapauksissa, kun niiden voidaan katsoa olevan
+        henkilötietoja. Kolmansien osapuolten evästeille pyydetään tarvittaessa
+        suostumus erikseen.
+      </p>
+
+      <h3>6. Säännönmukaiset tietolähteet</h3>
+
+      <p>
+        Rekisteriin tallennettavat tiedot saadaan asiakkaalta mm.
+        www-lomakkeilla lähetetyistä viesteistä, sähköpostitse, puhelimitse,
+        sosiaalisen median palvelujen kautta, sopimuksista, asiakastapaamisista
+        ja muista tilanteista, joissa asiakas luovuttaa tietojaan.
+      </p>
+
+      <p>
+        Yritysten ja muiden organisaatioiden yhteyshenkilöiden tietoja voidaan
+        kerätä myös julkisista lähteistä kuten verkkosivuilta,
+        hakemistopalveluista ja muilta yrityksiltä.
+      </p>
+
+      <h3>
+        7. Tietojen säännönmukaiset luovutukset ja tietojen siirto EU:n tai
+        ETA:n ulkopuolelle
+      </h3>
+
+      <p>
+        Tietoja ei luovuteta säännönmukaisesti muille tahoille. Tietoja voidaan
+        julkaista siltä osin kuin niin on sovittu asiakkaan kanssa.
+      </p>
+
+      <p>
+        Tietoja voidaan siirtää rekisterinpitäjän toimesta myös EU:n tai ETA:n
+        ulkopuolelle. Tietoja ei siirretä Yhdysvaltoihin ilman rekisteröityjen
+        nimenomaista suostumusta.
+      </p>
+
+      <h3>8. Rekisterin suojauksen periaatteet</h3>
+
+      <p>
+        Rekisterin käsittelyssä noudatetaan huolellisuutta ja tietojärjestelmien
+        avulla käsiteltävät tiedot suojataan asianmukaisesti. Kun
+        rekisteritietoja säilytetään Internet-palvelimilla, niiden laitteiston
+        fyysisestä ja digitaalisesta tietoturvasta huolehditaan
+        asiaankuuluvasti. Rekisterinpitäjä huolehtii siitä, että tallennettuja
+        tietoja sekä palvelimien käyttöoikeuksia ja muita henkilötietojen
+        turvallisuuden kannalta kriittisiä tietoja käsitellään
+        luottamuksellisesti ja vain niiden työntekijöiden toimesta, joiden
+        työnkuvaan se kuuluu.
+      </p>
+
+      <h3>9. Tarkastusoikeus ja oikeus vaatia tiedon korjaamista</h3>
+
+      <p>
+        Jokaisella rekisterissä olevalla henkilöllä on oikeus tarkistaa
+        rekisteriin tallennetut tietonsa ja vaatia mahdollisen virheellisen
+        tiedon korjaamista tai puutteellisen tiedon täydentämistä. Mikäli
+        henkilö haluaa tarkistaa hänestä tallennetut tiedot tai vaatia niihin
+        oikaisua, pyyntö tulee lähettää ensisijaisesti sähköpostitse
+        rekisterinpitäjälle. Pyyntö voidaan tarvittaessa lähettää kirjallisesti.
+        Rekisterinpitäjä voi pyytää tarvittaessa pyynnön esittäjää todistamaan
+        henkilöllisyytensä. Rekisterinpitäjä vastaa asiakkaalle EU:n
+        tietosuoja-asetuksessa säädetyssä ajassa (pääsääntöisesti kuukauden
+        kuluessa).
+      </p>
+
+      <h3>10. Muut henkilötietojen käsittelyyn liittyvät oikeudet</h3>
+
+      <p>
+        Rekisterissä olevalla henkilöllä on oikeus pyytää häntä koskevien
+        henkilötietojen poistamiseen rekisteristä ("oikeus tulla unohdetuksi").
+        Niin ikään rekisteröidyillä on muut
+        <a
+          href="http://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX%3A32016R0679#d1e2144-1-1"
+          target="_blank"
+          >EU:n yleisen tietosuoja-asetuksen mukaiset oikeudet</a
+        >
+        kuten henkilötietojen käsittelyn rajoittaminen tietyissä tilanteissa.
+        Pyynnöt tulee ensisijaisesti sähköpostitse rekisterinpitäjälle. Pyyntö
+        voidaan tarvittaessa lähettää kirjallisesti. Rekisterinpitäjä voi pyytää
+        tarvittaessa pyynnön esittäjää todistamaan henkilöllisyytensä.
+        Rekisterinpitäjä vastaa asiakkaalle EU:n tietosuoja-asetuksessa
+        säädetyssä ajassa (pääsääntöisesti kuukauden kuluessa).
+      </p>
+
+      <p>
+        Rekisterinpitäjällä voi olla lakisääteinen tai muu oikeus evätä
+        poistopyyntö. Rekisterinpitäjällä on velvollisuus säilyttää
+        kirjanpitoaineisto Kirjanpitolaissa (luku 2, 10 §) määritellyn ajan (10
+        vuotta) mukaisesti. Kirjanpitoon liittyvää aineistoa ei voida poistaa
+        ennen määräajan umpeutumista.
+      </p>
+
+      <a href="/">Takaisin kotisivulle</a>
+    </div>
+  </body>
+</html>
