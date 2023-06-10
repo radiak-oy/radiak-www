@@ -137,7 +137,7 @@ export default function RequestOfferForm() {
             <label htmlFor="input-consent" className="font-medium">
               Hyväksyn, että tietoni tallennetaan
               <a
-                href="rekisteri-ja-tietosuojaseloste"
+                href="rekisteri-ja-tietosuojaseloste.html"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="underline underline-offset-4 hover:text-secondary-700"
