@@ -166,7 +166,7 @@ export default function RequestOfferForm() {
           </button>
           <span className="pt-4 text-secondary-800">
             Radiak Oy:tä ei ole vielä perustettu. Lomaketta ei voi lähettää eikä
-            sen tietoja tallenneta.
+            täyttämiäsi tietoja tallenneta.
           </span>
           <span className="pt-2 font-medium text-red-500">{errorMessage}</span>
         </>
